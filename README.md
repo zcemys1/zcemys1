@@ -19,7 +19,7 @@ problems in healthcare and public policy.
 ---
 
 ### Projects
-- *Traffic Flow Analysis Web App*
+- [Traffic Flow Analysis Web App](https://github.com/zcemys1/traffic-flow-flask-app)
   
   A Flask-based web app for exploring UK traffic flow data at borough level.
 
